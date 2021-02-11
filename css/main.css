@@ -1,0 +1,17 @@
+/* les variables de couleur */
+:root{
+    --white: #fff;
+    --ligth-gray: #EBEEF1;
+    --dodger-blue: #1795EE;
+    --medium-sea-green: #21c466;
+    --pigment-green: #1DAE5B;
+    --off-white-mint-cream: #CAF1DA;
+    --light-cyan: #DEF6E8;
+    --teal: #747D87;
+    --persian-blue: #0C5BBA;
+    --navy-blue-teal: #1287D8;
+    --egyptian-blue: #09448A;
+    --medium-cya: #A1A8B0;
+    --cadet-blue: #616F8D;
+    --off-white-blue: #E3ECF8;
+}
